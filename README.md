@@ -1,2 +1,5 @@
 # Hello-World
-my first 
+
+hi, human!
+
+This is my first progress!
